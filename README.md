@@ -226,19 +226,3 @@ MIT License — See [LICENSE](LICENSE) for details.
 ## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome.
-
----
-
-## 📞 Contact & Support
-
-For questions or inquiries, please open an **Issue** on GitHub.
-
----
-
-**Repository:** [data-centric-pneumonia-segmentation](https://github.com/AbdulBari33/data-centric-pneumonia-segmentation)  
-**Publication:** IEEE ISCAIE 2026  
-**Status:** Published ✅
-
-Now in VS Code:
-
-Open README.md
